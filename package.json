@@ -1,7 +1,7 @@
 {
   "name": "uequations-news-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A news blog powered by Gatsby and Markdown",
   "version": "0.1.0",
   "author": "Mensah Alkebu-Lan <malkebu-lan@uequations.com>",
   "bugs": {
